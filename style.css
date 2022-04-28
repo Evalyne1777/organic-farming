@@ -1,0 +1,22 @@
+.nav-bar {
+    list-style: none;
+}
+
+.nav-bar ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+
+}
+
+.nav-bar ul li {
+    padding-left: 30px;
+    text-decoration: none;
+
+
+}
+
+.nav-bar ul li a {
+    text-decoration: none;
+
+}
